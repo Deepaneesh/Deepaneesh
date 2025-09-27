@@ -1,1 +1,98 @@
-"# Deepaneesh" 
+
+<h1 align="center">
+
+Hi 👋, I’m Deepaneesh R V
+
+</h1>
+<h3 align="center">
+
+Aspiring Statistician\|\> Master\`s in Statistics \|\> Data Analyst \|\>
+R Programmer \|\> Data Scientist Enthusiast
+
+</h3>
+
+- 🌱 I’m currently learning **Data Science, AI, ML & DL**
+
+- 📫 How to reach me <a href="mailto:deepaneesh98@gmail.com"
+  class="email"><strong>deepaneesh98@gmail.com</strong></a>
+
+- [📄 Web -Resume](https://deepaneesh.github.io/Web-Resume/)
+
+- [📄
+  Resume](https://github.com/Deepaneesh/Resume_Creation_By_LaTeX/blob/main/resume%20code.pdf)
+
+  <h3 align="left">
+
+Connect with me:
+
+</h3>
+<p align="left">
+
+<a href="https://linkedin.com/in/deepaneesh r v" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaneesh r v" align="center" height="30" width="40"/></a>
+
+</p>
+<h3 align="left">
+
+Languages and Tools:
+
+</h3>
+<p align="left">
+
+<a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
+<img src="https://www.r-project.org/logo/Rlogo.png" alt="R" width="40" height="40"/>
+</a>
+
+<a href="https://www.python.org/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="Python" width="40" height="40"/>
+</a>
+
+<a href="https://www.mysql.com/" target="_blank" rel="noreferrer">
+<img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="SQL" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-office-2013.svg" alt="MS-Office" width="40" height="40"/>
+</a>
+
+<a href="https://www.microsoft.com/microsoft-365/excel" target="_blank" rel="noreferrer">
+<img src="https://cdn.worldvectorlogo.com/logos/microsoft-excel-2013.svg" alt="Excel" width="40" height="40"/>
+</a>
+
+<a href="https://posit.co/download/rstudio-desktop/" target="_blank" rel="noreferrer">
+<img src="./image/Rstudio img.png" alt="RStudio" width="40" height="40"/>
+</a>
+
+<a href="https://www.ibm.com/products/spss-statistics" target="_blank" rel="noreferrer">
+<img src="./image/SPSS logo.jpg" alt="SPSS" width="40" height="40"/>
+</a>
+
+<a href="https://systatsoftware.com/" target="_blank" rel="noreferrer">
+<img src="./image/systat logo.png" alt="SYSTAT" width="40" height="40"/>
+</a>
+
+<a href="https://www.jamovi.org/" target="_blank" rel="noreferrer">
+<img src="./image/Jamovi.jpeg" alt="Jamovi" width="40" height="40"/>
+</a>
+
+<a href="https://www.latex-project.org/" target="_blank" rel="noreferrer">
+<img src="./image/Latex logo.jpeg" alt="LaTeX" width="50" height="40"/>
+</a>
+
+<a href="https://git-scm.com/" target="_blank" rel="noreferrer">
+<img src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" alt="Git" width="40" height="40"/>
+</a>
+
+<a href="https://github.com/" target="_blank" rel="noreferrer">
+<img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" alt="GitHub" width="40" height="40"/>
+</a>
+
+</p>
+<p>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaneesh&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="deepaneesh" align="left"/>
+</p>
+<p>
+ <img src="https://github-readme-stats.vercel.app/api?username=deepaneesh&amp;show_icons=true&amp;locale=en" alt="deepaneesh" align="center"/>
+</p>
+<p>
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaneesh&amp;" alt="deepaneesh" align="center"/>
+</p>
