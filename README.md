@@ -67,7 +67,7 @@ Languages and Tools:
 </a>
 
 <a href="https://systatsoftware.com/" target="_blank" rel="noreferrer">
-<img src="./image/systat logo.png" alt="SYSTAT" width="40" height="40"/>
+<img src="./image/Systat logo.png" alt="SYSTAT" width="40" height="40"/>
 </a>
 
 <a href="https://www.jamovi.org/" target="_blank" rel="noreferrer">
