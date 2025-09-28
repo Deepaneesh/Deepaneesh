@@ -88,7 +88,7 @@ Languages and Tools:
 
 </p>
 <p>
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaneesh&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="deepaneesh" align="left"/>
+<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaneesh&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="deepaneesh" align="center"/>
 </p>
 <p>
  <img src="https://github-readme-stats.vercel.app/api?username=deepaneesh&amp;show_icons=true&amp;locale=en" alt="deepaneesh" align="center"/>
