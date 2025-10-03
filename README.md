@@ -4,6 +4,7 @@
 Hi 👋, I’m Deepaneesh R V
 
 </h1>
+
 <h3 align="center">
 
 Aspiring Statistician\|\> Master\`s in Statistics \|\> Data Analyst \|\>
@@ -26,16 +27,19 @@ R Programmer \|\> Data Scientist Enthusiast
 Connect with me:
 
 </h3>
+
 <p align="left">
 
-<a href="https://linkedin.com/in/deepaneesh r v" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaneesh r v" align="center" height="30" width="40"/></a>
+<a href="https://www.linkedin.com/in/deepaneesh/" target="blank"><img src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="deepaneesh r v" align="center" height="30" width="40"/></a>
 
 </p>
+
 <h3 align="left">
 
 Languages and Tools:
 
 </h3>
+
 <p align="left">
 
 <a href="https://www.r-project.org/" target="_blank" rel="noreferrer">
@@ -87,12 +91,18 @@ Languages and Tools:
 </a>
 
 </p>
+
 <p>
+
 <img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaneesh&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="deepaneesh" align="center"/>
 </p>
+
 <p>
+
  <img src="https://github-readme-stats.vercel.app/api?username=deepaneesh&amp;show_icons=true&amp;locale=en" alt="deepaneesh" align="center"/>
 </p>
+
 <p>
+
 <img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaneesh&amp;" alt="deepaneesh" align="center"/>
 </p>
