@@ -94,15 +94,15 @@ Languages and Tools:
 
 <p>
 
-<img src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaneesh&amp;show_icons=true&amp;locale=en&amp;layout=compact" alt="deepaneesh" align="center"/>
+<img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=deepaneesh&show_icons=true&locale=en&layout=compact" alt="deepaneesh" />
 </p>
 
 <p>
 
- <img src="https://github-readme-stats.vercel.app/api?username=deepaneesh&amp;show_icons=true&amp;locale=en" alt="deepaneesh" align="center"/>
+ <img align="center" src="https://github-readme-stats.vercel.app/api?username=deepaneesh&show_icons=true&locale=en" alt="deepaneesh" />
 </p>
 
 <p>
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=deepaneesh&amp;" alt="deepaneesh" align="center"/>
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=deepaneesh&" alt="deepaneesh" />
 </p>
