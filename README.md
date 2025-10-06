@@ -96,7 +96,6 @@ Languages and Tools:
 
 <img src="https://github-readme-stats.vercel.app/api?username=Deepaneesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false" height="150" />
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Deepaneesh&theme=dark&hide_border=false&include_all_commits=false&count_private=false&layout=compact" height="150" />
+<img src="https://nirzak-streak-stats.vercel.app/?user=Deepaneesh&theme=dark&hide_border=false" height="150" />
 
 </div>
-
-![](https://nirzak-streak-stats.vercel.app/?user=Deepaneesh&theme=dark&hide_border=false)<br/>
